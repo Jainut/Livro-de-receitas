@@ -1,6 +1,6 @@
 # Macarronada
 
-## Ingredientes (10 porções)
+### Ingredientes (10 porções)
 
 - ![água](https://static.itdg.com.br/images/40-40/8023e69f316813ca84b7598a5ff5a70d/agua.jpg)1 litro de água
 - ![macarrão fusilli](https://static.itdg.com.br/images/40-40/5533e5a7fb6ce9729487dd4a76da5bf1/macarrao-fusilli.jpg)1 pacote de macarrão parafuso
